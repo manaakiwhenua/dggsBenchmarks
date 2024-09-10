@@ -20,9 +20,9 @@ Benchmarking notebooks are self explanatory, they  follow the same workflow as o
 Generation of Benchmark Data -> (Indexing) -> Joining -> Classification
 
 #### Local functions are defined within python codes for Vector benchmarking can be found:
-[Vector functions](Vector_benchmarking\Vector_funcs.py)
+[Vector functions](Vector_benchmarking/Vector_funcs.py)
 
-[DGGS functions](Vector_benchmarking\DGGS_funcs.py)
+[DGGS functions](Vector_benchmarking/DGGS_funcs.py)
 
 
 ## Paper benchmarks results
@@ -31,25 +31,25 @@ Data and benchmark results for the paper can be found within this repository.
 
 #### Each run and results of benchmarking for Vector & DGGS can be found in independent jupyter notebooks within the folder:
 
-Vector_benchmarking\DGGS\dggs_join_classify_benchmark_
-[2](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_2.ipynb)
-[5](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_5.ipynb)
-[10](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_10.ipynb)
-[50](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_50.ipynb)
-[100](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_100.ipynb)
-[500](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_500.ipynb)
-[1000.ipynb](Vector_benchmarking\DGGS\dggs_join_classify_benchmark_1000.ipynb)
+Vector_benchmarking/DGGS/dggs_join_classify_benchmark_
+[2](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_2.ipynb)
+[5](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_5.ipynb)
+[10](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_10.ipynb)
+[50](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_50.ipynb)
+[100](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_100.ipynb)
+[500](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_500.ipynb)
+[1000.ipynb](Vector_benchmarking/DGGS/dggs_join_classify_benchmark_1000.ipynb)
 
-Vector_benchmarking\Traditional\vector_join_classify_benchmark_
-[2](Vector_benchmarking\Traditional\vector_join_classify_benchmark_2.ipynb)
-[5](Vector_benchmarking\Traditional\vector_join_classify_benchmark_5.ipynb)
-[10](Vector_benchmarking\Traditional\vector_join_classify_benchmark_10.ipynb)
-[50](Vector_benchmarking\Traditional\vector__join_classify_benchmark_50.ipynb)
-[100](Vector_benchmarking\Traditional\vector_join_classify_benchmark_100.ipynb)
-[250.ipynb](Vector_benchmarking\Traditional\vector_join_classify_benchmark_250.ipynb)
+Vector_benchmarking/Traditional/vector_join_classify_benchmark_
+[2](Vector_benchmarking/Traditional/vector_join_classify_benchmark_2.ipynb)
+[5](Vector_benchmarking/Traditional/vector_join_classify_benchmark_5.ipynb)
+[10](Vector_benchmarking/Traditional/vector_join_classify_benchmark_10.ipynb)
+[50](Vector_benchmarking/Traditional/vector__join_classify_benchmark_50.ipynb)
+[100](Vector_benchmarking/Traditional/vector_join_classify_benchmark_100.ipynb)
+[250.ipynb](Vector_benchmarking/Traditional/vector_join_classify_benchmark_250.ipynb)
 
 #### Data for Vector & DGGS:
 
-[Vector Data](Vector_benchmarking\Traditional\vector_1000)
+[Vector Data](Vector_benchmarking/Traditional/vector_1000)
 
-[DGGS Data](Vector_benchmarking\DGGS\vector_1000)
+[DGGS Data](Vector_benchmarking/DGGS/vector_1000)
