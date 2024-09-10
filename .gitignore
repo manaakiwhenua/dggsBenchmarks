@@ -18,3 +18,5 @@ Vector_benchmarking/DGGS/*.gpkg
 Vector_benchmarking/DGGS/*.csv
 Vector_benchmarking/Traditional/*.gpkg
 Vector_benchmarking/Traditional/*.csv
+Vector_benchmarking/data/*.gpkg
+Vector_benchmarking/__pycache__
