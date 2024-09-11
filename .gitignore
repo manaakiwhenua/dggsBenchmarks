@@ -12,6 +12,8 @@ Raster_benchmarking/data/*/*.asc
 
 Raster_benchmarking/Raster/*.tif
 Raster_benchmarking/Raster/*.tif.aux.xml
+Raster_benchmarking/data/
+Raster_benchmarking/__pycache__
 
 Vector_benchmarking/output-*.gpkg
 Vector_benchmarking/DGGS/*.gpkg

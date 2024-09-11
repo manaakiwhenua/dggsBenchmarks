@@ -26,11 +26,13 @@ Benchmarking Notebooks are self documented, and they follow the same workflow as
 3. Joining
 4. Classification
 
-Local functions are defined within Jupyter Notebooks; for vector benchmarks these can be found here
+Local functions are defined within Jupyter Notebooks; benchmarks can also be found here
 
 - [Vector functions](Vector_benchmarking/Vector_funcs.py)
-- [DGGS functions](Vector_benchmarking/DGGS_funcs.py)
+- [DGGS functions (Vector)](Vector_benchmarking/DGGS_funcs.py)
 
+- [Raster functions](Raster_benchmarking/Raster_funcs.py)
+- [DGGS functions (Raster)](Raster_benchmarking/DGGS_funcs.py)
 ## Recorded benchmarking results
 
 
